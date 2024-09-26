@@ -1,0 +1,126 @@
+﻿08/25/2024 07:03:51
+Name : Deadpool & Wolverine
+Year : 2024
+Rate : 8.0
+Type : R
+Time : 2h 8m
+========================
+08/25/2024 07:14:15
+Name : X-Men
+Year : 2000
+Rate : 7.3
+Type : PG-13
+Time : 1h 44m
+========================
+08/25/2024 07:14:15
+Name : The Lord of the Rings: The Fellowship of the Ring
+Year : 2001
+Rate : 8.9
+Type : PG-13
+Time : 2h 58m
+========================
+08/25/2024 07:14:15
+Name : Killers of the Flower Moon
+Year : 2023
+Rate : 7.6
+Type : R
+Time : 3h 26m
+========================
+08/25/2024 07:16:20
+Name : Killers of the Flower Moon
+Year : 2023
+Rate : 7.6
+Type : R
+Time : 3h 26m
+========================
+08/25/2024 09:29:30
+Name : Titanic
+Year : 1997
+Rate : 7.9
+Type : PG-13
+Time : 3h 14m
+========================
+08/25/2024 09:29:30
+Name : X-Men
+Year : 2000
+Rate : 7.3
+Type : PG-13
+Time : 1h 44m
+========================
+08/25/2024 11:29:35
+Name : X-Men
+Year : 2000
+Rate : 7.3
+Type : PG-13
+Time : 1h 44m
+========================
+08/25/2024 11:41:32
+Name : Captain America: Brave New World
+Year : 2025
+Rate : Not Found
+Type : Not Found
+Time : Not Found
+========================
+08/25/2024 11:41:32
+Name : Madadgaar
+Year : 1987
+Rate : 5.3
+Type : Not Found
+Time : 2h 9m
+========================
+08/25/2024 11:41:32
+Name : X-Men
+Year : 2000
+Rate : 7.3
+Type : PG-13
+Time : 1h 44m
+========================
+08/25/2024 11:41:32
+Name : The Lord of the Rings: The Fellowship of the Ring
+Year : 2001
+Rate : 8.9
+Type : PG-13
+Time : 2h 58m
+========================
+08/25/2024 11:59:58
+Name : Madadgaar
+Year : 1987
+Rate : 5.3
+Type : Not Found
+Time : 2h 9m
+========================
+08/25/2024 11:59:58
+Name : Captain America: Brave New World
+Year : 2025
+Rate : Not Found
+Type : Not Found
+Time : Not Found
+========================
+08/25/2024 12:23:06
+Name : Madadgaar
+Year : 1987
+Rate : 5.3
+Type : Not Found
+Time : 2h 9m
+========================
+08/25/2024 12:23:06
+Name : Captain America: Brave New World
+Year : 2025
+Rate : Not Found
+Type : Not Found
+Time : Not Found
+========================
+08/25/2024 12:23:06
+Name : X-Men
+Year : 2000
+Rate : 7.3
+Type : PG-13
+Time : 1h 44m
+========================
+08/25/2024 12:38:29
+Name : X-Men
+Year : 2000
+Rate : 7.3
+Type : PG-13
+Time : 1h 44m
+========================

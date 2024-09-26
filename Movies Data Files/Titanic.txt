@@ -1,0 +1,5 @@
+Name : Titanic
+Year : 1997
+Rate : 7.9
+Type : PG-13
+Time : 3h 14m
